@@ -1,5 +1,3 @@
-// create a react component that inputs a textarea message then perfoms a fetch requests to localhost:3001 gets back a response as a data.message and displays that message in a box bellow
-
 import React, { useState } from "react";
 import "./App.css";
 
